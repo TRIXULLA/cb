@@ -1,0 +1,15 @@
+<div class="footer">
+        <ul class="footer-logos">
+            <li><a href=""> <img src="Images/facebook.png" alt="" width="50px" height="50px"></a></li>
+            <li><a href=""> <img src="Images//instagram.png" alt="" width="50px" height="50px"></a></li>
+            <li><a href=""> <img src="Images/twitter.png" alt="" width="50px" height="50px"></a></li>
+            <li><a href=""> <img src="Images/whatsapp.png" alt="" width="50px" height="50px"></a></li>
+        </ul>
+       
+        <div class="tag">Terms and Conditions Applies</div>
+        <div class="tag">All Rigths Receved 2022</div>
+        <div class="tag">CompassLk</div>
+        <div class="tag">077135246</div>
+        
+    
+    </div>
